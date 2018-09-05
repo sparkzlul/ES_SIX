@@ -29,7 +29,7 @@ bot.on("message", function(message) {
         case "report":
             message.channel.sendMessage("Please report any bugs or issues with ES_SIX to @sparkz#4976.");
             break;
-        case "profile":
+        case "profile": //This is going for a more in-depth UserInfo bio, similar to Dyno.
             var embed = new Discord.RichEmbed()
                 .addField("Discord Username", "PL Description", true)
                 .addField("Join Date", "PL Description", true)
@@ -55,3 +55,8 @@ bot.on("message", function(message) {
 })
 
 bot.login(TOKEN);
+
+// ©2018 Aidan Johnston. Any code used here is entirely original and unauthorized use of this bot for means of hacking and plaigarizing
+// servers with this bot can result in legal action.
+
+// Please note: THIS IS AN EXTREMELY EARLY VERSION OF THE BOT.

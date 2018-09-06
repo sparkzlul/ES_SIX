@@ -17,7 +17,8 @@ https://github.com/sparkzlul/ES_SIX
 ================================================
 FEATURES
 ================================================
-[placeholder information]
+Features along with documentation are currently being
+developed and will be available at a later date.
 ================================================
 DOCUMENTATION
 ================================================

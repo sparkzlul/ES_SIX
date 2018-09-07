@@ -25,3 +25,10 @@ DOCUMENTATION
 Documentation is currently being developed for the bot
 and will be available at a later date.
 ================================================
+LEGAL
+================================================
+Any unauthorized use of this bot or its code to conduct
+illegal operations and security breaches can and/or will
+be subject to legal action.
+================================================
+©2018 Aidan Johnston.
